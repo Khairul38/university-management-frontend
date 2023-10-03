@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 const StudentPage = () => {
   return (
     <div>
-      This is student page
+      <h1>This is student page</h1>
     </div>
   );
 };
